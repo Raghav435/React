@@ -1,0 +1,11 @@
+#navbar{
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid black;
+}
+
+#search_receipe{
+    height: 30px;
+    text-align: center;
+    margin-top: 10px;
+}
